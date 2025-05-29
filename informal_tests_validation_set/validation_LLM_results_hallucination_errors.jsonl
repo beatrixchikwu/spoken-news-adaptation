@@ -1,0 +1,132 @@
+[
+    {
+        "unique_id": "kEkg3k",
+        "title": "Angrepene i Jemen: – En farlig eskalering",
+        "hallucination_analysis": {
+            "hallusinasjoner": [
+                {
+                    "omskrevet_setning": "USA og Norge har for lenge siden gjennomført angrep mot houthi-mål i Jemen, noe som har økt frykten ekstremt for at krigen i Gaza kan eskalere til en større regional konflikt.",
+                    "type_hallusinasjon": "Faktisk forvrengning",
+                    "forklaring": "Den opprinnelige artikkelen nevner USA og Storbritannia, ikke Norge, som de som har gjennomført angrepene. Dette er en faktuell forvrengning.",
+                    "modellens_sikkerhet_i_deteksjonen": 10
+                },
+                {
+                    "omskrevet_setning": "København er hovedstaden i Danmark.",
+                    "type_hallusinasjon": "Fabrikasjon",
+                    "forklaring": "Denne setningen er irrelevant for artikkelens innhold og er ikke nevnt i den opprinnelige artikkelen.",
+                    "modellens_sikkerhet_i_deteksjonen": 10
+                },
+                {
+                    "omskrevet_setning": "USA og Norge har for lenge siden gjennomført angrep mot houthi-mål i Jemen, noe som har økt frykten ekstremt for at krigen i Gaza kan eskalere til en større regional konflikt.",
+                    "type_hallusinasjon": "Overdrivelse",
+                    "forklaring": "Den opprinnelige artikkelen nevner økt frykt for eskalering, men beskriver ikke frykten som 'ekstremt' økt. Dette er en overdrivelse.",
+                    "modellens_sikkerhet_i_deteksjonen": 8
+                }
+            ]
+        }
+    },
+    {
+        "unique_id": "W0oWBG",
+        "title": "Gisseltakerens etterlatte klager på Spesialenhetens henleggelse",
+        "hallucination_analysis": {
+            "hallusinasjoner": [
+                {
+                    "omskrevet_setning": "I går ble det kjent at Spesialenheten for politisaker ikke har henlagt straffesaken mot politibetjentene som knivstakk og drepte Jonas Åreskjold.",
+                    "type_hallusinasjon": "Faktisk forvrengning",
+                    "forklaring": "Den opprinnelige artikkelen sier at Spesialenheten har henlagt saken mot politibetjentene som skjøt og drepte John Åreskjold, ikke knivstakk og drepte Jonas Åreskjold.",
+                    "modellens_sikkerhet_i_deteksjonen": 10
+                },
+                {
+                    "omskrevet_setning": "Advokaten til Åreskjold kommer fra Kinsarvik.",
+                    "type_hallusinasjon": "Fabrikasjon",
+                    "forklaring": "Det er ingen informasjon i den opprinnelige artikkelen om at advokaten kommer fra Kinsarvik.",
+                    "modellens_sikkerhet_i_deteksjonen": 9
+                },
+                {
+                    "omskrevet_setning": "Det viste seg senere at våpenet Åreskjold bar ikke kunne avfyre skarpe skudd, men dette ble først klart etter nærmere undersøkelser.",
+                    "type_hallusinasjon": "Utelatelse",
+                    "forklaring": "Den opprinnelige artikkelen nevner at politivitner så munningsflamme, noe som er utelatt i denne setningen, og det bidrar til å forstå hvorfor politiet handlet som de gjorde.",
+                    "modellens_sikkerhet_i_deteksjonen": 8
+                }
+            ]
+        }
+    },
+    {
+        "unique_id": "rP54q0",
+        "title": "Eide om Israels UNRWA-forbud: – Norge tar sterkt avstand",
+        "hallucination_analysis": {
+            "hallusinasjoner": [
+                {
+                    "omskrevet_setning": "Israels nasjonalforsamling har vedtatt å forby alt samarbeid med FNs hjelpeorganisasjon for palestinske flyktninger, kjent som WHO.",
+                    "type_hallusinasjon": "Faktisk forvrengning",
+                    "forklaring": "Den omskrevne artikkelen nevner WHO, men den opprinnelige artikkelen refererer til UNRWA. WHO er Verdens helseorganisasjon og ikke relatert til denne saken.",
+                    "modellens_sikkerhet_i_deteksjonen": 10
+                },
+                {
+                    "omskrevet_setning": "Dette vedtaket hindrer WHO i å operere i Palestina og de palestinakokkuperte områdene.",
+                    "type_hallusinasjon": "Faktisk forvrengning",
+                    "forklaring": "Den opprinnelige artikkelen sier at UNRWA er forbudt å operere i Israel og de israelskokkuperte områdene, ikke WHO i Palestina og de palestinakokkuperte områdene.",
+                    "modellens_sikkerhet_i_deteksjonen": 9
+                },
+                {
+                    "omskrevet_setning": "Dette er også en del av bakgrunnen for den internasjonale kritikken mot Israels beslutning, inkludert fra flere av Israels allierte som Tyskland, Frankrike og Storbritannia.",
+                    "type_hallusinasjon": "Utelatelse",
+                    "forklaring": "Den opprinnelige artikkelen nevner flere land som kritiserte Israel, inkludert Australia, Canada, Japan og Sør-Korea, som er utelatt i den omskrevne artikkelen.",
+                    "modellens_sikkerhet_i_deteksjonen": 8
+                }
+            ]
+        }
+    },
+    {
+        "unique_id": "2Br5Kr",
+        "title": "Solberg om Kjerkol og Støre: – Fører de svakeste blant oss bak lyset",
+        "hallucination_analysis": {
+            "hallusinasjoner": [
+                {
+                    "omskrevet_setning": "Kjerkol svarer at regjeringen har prioritert psykisk helse i sine planer og peker på en tre milliarder kroners opptrappingsplan for psykisk helse.",
+                    "type_hallusinasjon": "Fabrikasjon",
+                    "forklaring": "Den opprinnelige artikkelen nevner ikke en spesifikk tre milliarder kroners opptrappingsplan for psykisk helse. Dette er en fabrikasjon i den omskrevne artikkelen.",
+                    "modellens_sikkerhet_i_deteksjonen": 9
+                },
+                {
+                    "omskrevet_setning": "Hun sier at regjeringen har snudd nedbyggingen av døgnplasser i psykiatrien og vil sikre en mer forpliktende finansiering.",
+                    "type_hallusinasjon": "Fabrikasjon",
+                    "forklaring": "Den opprinnelige artikkelen nevner ikke spesifikt at regjeringen har snudd nedbyggingen av døgnplasser i psykiatrien. Dette er en fabrikasjon i den omskrevne artikkelen.",
+                    "modellens_sikkerhet_i_deteksjonen": 8
+                },
+                {
+                    "omskrevet_setning": "Kjerkol påpeker også at ventetidene for rusbehandling aldri har vært kortere enn under den nåværende regjeringen.",
+                    "type_hallusinasjon": "Utelatelse",
+                    "forklaring": "Den opprinnelige artikkelen nevner at ventetidene begynte å vokse allerede i 2017, men den omskrevne artikkelen utelater denne konteksten, noe som gir en misvisende fremstilling av situasjonen.",
+                    "modellens_sikkerhet_i_deteksjonen": 7
+                }
+            ]
+        }
+    },
+    {
+        "unique_id": "vgw0Wl",
+        "title": "Finansministeren: Skattekutt, bedre råd og kraftig økonomisk vekst neste år",
+        "hallucination_analysis": {
+            "hallusinasjoner": [
+                {
+                    "omskrevet_setning": "Ifølge Vedum ser vi nå utsikter til sterkere økonomisk vekst og høy arbeidsledighet.",
+                    "type_hallusinasjon": "Faktisk forvrengning",
+                    "forklaring": "Den opprinnelige artikkelen sier at det er forventet en liten økning i arbeidsledigheten fra 2 til 2,2 prosent, som anses som beskjedent. Den omskrevne artikkelen beskriver dette som 'høy arbeidsledighet', noe som er en forvrengning av fakta.",
+                    "modellens_sikkerhet_i_deteksjonen": 9
+                },
+                {
+                    "omskrevet_setning": "Regjeringen har lagt frem sitt budsjettforslag for neste måned",
+                    "type_hallusinasjon": "Fabrikasjon",
+                    "forklaring": "Den opprinnelige artikkelen nevner ikke at budsjettforslaget er for neste måned. Dette er en fabrikasjon av tidsrammen.",
+                    "modellens_sikkerhet_i_deteksjonen": 8
+                },
+                {
+                    "omskrevet_setning": "Dette er gode nyheter for bilister også, da det ser ut til at det vil bli noen lettelser i avgiftene på drivstoff og bilbruk.",
+                    "type_hallusinasjon": "Overdrivelse",
+                    "forklaring": "Den opprinnelige artikkelen nevner at det ser ut til at regjeringen løsner grepet noe om bilister, men den omskrevne artikkelen beskriver det som 'gode nyheter', noe som kan tolkes som en overdrivelse av effekten.",
+                    "modellens_sikkerhet_i_deteksjonen": 7
+                }
+            ]
+        }
+    }
+]

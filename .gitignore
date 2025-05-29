@@ -1,0 +1,23 @@
+# Virtual environment
+masterProjectVenv/
+
+# Environment variables file
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and local files
+*.log
+
+# macOS system files
+.DS_Storevenv/
+
+# VS code settings
+.vscode/

@@ -1,0 +1,190 @@
+[
+    {
+        "unique_id": "ny4AGQ",
+        "title": "Statsbudsjettet 2025: Eksperter venter mindre formuesskatt for «folk flest»",
+        "hallucination_analysis": {
+            "hallusinasjoner": [
+                {
+                    "omskrevet_setning": "Dette vil gi en reduksjon i formuesskatten på 13.000 kroner i året.",
+                    "type_hallusinasjon": "Faktisk forvrengning",
+                    "forklaring": "Den opprinnelige artikkelen sier at en økning av bunnfradraget fra 1,7 millioner kroner til 3 millioner kroner vil kunne bety 13.000 kroner mindre formuesskatt i året. Den omskrevne artikkelen presenterer dette som en sikker konsekvens uten å nevne forutsetningen om økning til 3 millioner kroner.",
+                    "modellens_sikkerhet_i_deteksjonen": 8
+                },
+                {
+                    "omskrevet_setning": "En slik økning vil bety at 100.000 flere skattytere slipper formuesskatt i 2025, til en kostnad på under 2 milliarder kroner.",
+                    "type_hallusinasjon": "Faktisk forvrengning",
+                    "forklaring": "Den opprinnelige artikkelen sier at selv en liten heving av bunnfradraget vil gjøre at 100.000 flere skattytere slipper unna formuesskatt, men det er ikke spesifisert at dette gjelder en økning til 3 millioner kroner. Den omskrevne artikkelen gir inntrykk av at dette er en direkte konsekvens av økningen til 3 millioner kroner.",
+                    "modellens_sikkerhet_i_deteksjonen": 7
+                }
+            ]
+        }
+    },
+    {
+        "unique_id": "4Bxma9",
+        "title": "Lange helsekøer på offentlige sykehus. Det private sier de har masse ledig kapasitet.",
+        "hallucination_analysis": {
+            "hallusinasjoner": [
+                {
+                    "omskrevet_setning": "Hun mener at de lange ventetidene tvinger gjennom en todeling av helsevesenet, noe som fører til at flere pasienter velger å betale seg ut av de offentlige helsekøene.",
+                    "type_hallusinasjon": "Utelatelse",
+                    "forklaring": "Den omskrevne setningen utelater Tunolds kommentar om at 'ingen egentlig ønsker' denne todelingen av helsevesenet, noe som gir en litt annen nyanse til hennes uttalelse.",
+                    "modellens_sikkerhet_i_deteksjonen": 8
+                },
+                {
+                    "omskrevet_setning": "Hun understreker at en mer proaktiv tilnærming fra helseforetakene er nødvendig for virkelig å få bukt med utfordringen.",
+                    "type_hallusinasjon": "Overdrivelse",
+                    "forklaring": "Den omskrevne setningen legger til en sterkere understrekning av behovet for en proaktiv tilnærming enn det som fremkommer i originalen, hvor det kun sies at helseforetakene kan være 'langt mer proaktive'.",
+                    "modellens_sikkerhet_i_deteksjonen": 7
+                }
+            ]
+        }
+    },
+    {
+        "unique_id": "73jdXK",
+        "title": "Personsøker-eksplosjonene i Libanon: Mann ikke lenger etterlyst",
+        "hallucination_analysis": {
+            "hallusinasjoner": [
+                {
+                    "omskrevet_setning": "Disse eksplosjonene, som involverte personsøkere og walkietalkier, førte til minst 40 dødsfall og skadet flere tusen mennesker.",
+                    "type_hallusinasjon": "Faktisk forvrengning",
+                    "forklaring": "Den opprinnelige artikkelen nevner eksplosjoner av personsøkere og walkietalkier, men spesifiserer ikke at walkietalkier var involvert i eksplosjonene. Dette er en faktisk forvrengning av informasjonen.",
+                    "modellens_sikkerhet_i_deteksjonen": 9
+                }
+            ]
+        }
+    },
+    {
+        "unique_id": "alvn3L",
+        "title": "Barth Eide fordømmer angrep på teltleir – flere titalls drept og såret",
+        "hallucination_analysis": {
+            "hallusinasjoner": [
+                {
+                    "omskrevet_setning": "Ifølge helsepersonell og beboere ble teltleiren truffet av minst fire raketter, noe som resulterte i at minst 65 mennesker ble drept eller såret.",
+                    "type_hallusinasjon": "Faktisk forvrengning",
+                    "forklaring": "Den opprinnelige artikkelen sier at den sivile nødtjenesten i Gaza tror det er minst 65 mennesker som er blitt drept eller såret, men det er ikke bekreftet. Den omskrevne artikkelen presenterer dette som et faktum.",
+                    "modellens_sikkerhet_i_deteksjonen": 9
+                },
+                {
+                    "omskrevet_setning": "Den pågående konflikten i Midtøsten ble utløst etter at Hamas utførte et terrorangrep mot en festival i Israel den 7. oktober i fjor, der mer enn 1200 mennesker ble drept.",
+                    "type_hallusinasjon": "Faktisk forvrengning",
+                    "forklaring": "Den opprinnelige artikkelen sier at krisen ble utløst etter et terrorangrep mot en festival i Israel den 7. oktober, men nevner ikke at det var i fjor. Dette kan skape forvirring om tidslinjen.",
+                    "modellens_sikkerhet_i_deteksjonen": 8
+                }
+            ]
+        }
+    },
+    {
+        "unique_id": "lwzzjA",
+        "title": "KrFU-leder tror Norge har mye å lære av «tradwife»-trenden",
+        "hallucination_analysis": {
+            "hallusinasjoner": [
+                {
+                    "omskrevet_setning": "Dette mener han vil gjøre det lettere for kvinner å bli inspirert av «tradwife»-verdiene uten å gi opp likestillingen som allerede er oppnådd i Norge.",
+                    "type_hallusinasjon": "Fabrikasjon",
+                    "forklaring": "Den omskrevne setningen legger til en påstand om at Bjuland mener det vil gjøre det lettere for kvinner å bli inspirert av «tradwife»-verdiene uten å gi opp likestillingen. Dette er ikke nevnt i den opprinnelige artikkelen.",
+                    "modellens_sikkerhet_i_deteksjonen": 8
+                }
+            ]
+        }
+    },
+    {
+        "unique_id": "76bKOW",
+        "title": "Støre mindre bastant om flyktningvedtak: Statsforvalteren må se på lovligheten",
+        "hallucination_analysis": {
+            "hallusinasjoner": [
+                {
+                    "omskrevet_setning": "Fremskrittspartiet, derimot, forsvarer vedtaket som en prioritering på grunn av krigen i Europa.",
+                    "type_hallusinasjon": "Utelatelse",
+                    "forklaring": "Den omskrevne artikkelen utelater at Jon Helgheim fra Fremskrittspartiet spesifikt nevnte at beslutningen ikke var basert på rasisme, men på prioritering av ukrainske flyktninger på grunn av krigen i Europa. Dette gir en mer nyansert forståelse av FrPs posisjon.",
+                    "modellens_sikkerhet_i_deteksjonen": 8
+                },
+                {
+                    "omskrevet_setning": "I lys av at over 70 000 ukrainere har kommet til Norge siden 2022, har regjeringen besluttet å redusere antall kvoteflyktninger som mottas gjennom FNs system.",
+                    "type_hallusinasjon": "Utelatelse",
+                    "forklaring": "Den omskrevne artikkelen utelater at regjeringen reduserte antall kvoteflyktninger fra 2000 til 1000. Dette er en viktig detalj som gir kontekst til regjeringens beslutning.",
+                    "modellens_sikkerhet_i_deteksjonen": 9
+                }
+            ]
+        }
+    },
+    {
+        "unique_id": "RGvOnO",
+        "title": "Leder for omstridt FN-organisasjon: – Kampanje fra Israel",
+        "hallucination_analysis": {
+            "hallusinasjoner": [
+                {
+                    "omskrevet_setning": "Dette skjedde etter israelske beskyldninger om at tolv av de ansatte på Gazastripen deltok i et Hamas-angrep mot Israel 7. oktober.",
+                    "type_hallusinasjon": "Utelatelse",
+                    "forklaring": "Den omskrevne setningen utelater at det var 1140 mennesker som ble drept i Hamas-angrepet, noe som er en viktig detalj for å forstå alvoret i anklagene.",
+                    "modellens_sikkerhet_i_deteksjonen": 9
+                }
+            ]
+        }
+    },
+    {
+        "unique_id": "allM7a",
+        "title": "Skilsmisse på eldre dager: Dette bør du tenke igjennom",
+        "hallucination_analysis": {
+            "hallusinasjoner": [
+                {
+                    "omskrevet_setning": "Skilsmisser blant eldre ektepar har økt betydelig siden årtusenskiftet, selv om det generelle antallet skilsmisser har gått ned.",
+                    "type_hallusinasjon": "Utelatelse",
+                    "forklaring": "Den omskrevne setningen utelater at økningen i skilsmisser blant eldre er spesifikt for kvinner over 60 år, som har økt med over 30 prosent siden 2005, ifølge den opprinnelige artikkelen.",
+                    "modellens_sikkerhet_i_deteksjonen": 8
+                },
+                {
+                    "omskrevet_setning": "Lene Grønvold nevner at mange kvinner føler at de alltid har tatt vare på mann og barn, og når de endelig skal leve for seg selv, vil de ikke være sykepleier for en mann med dårlig helse.",
+                    "type_hallusinasjon": "Utelatelse",
+                    "forklaring": "Den omskrevne setningen utelater at kvinner kan kjenne på skam over å gå fra en syk og redusert mann, men samtidig argumenterer de med at de har stått på for mann og barn hele livet.",
+                    "modellens_sikkerhet_i_deteksjonen": 7
+                },
+                {
+                    "omskrevet_setning": "Bildtgård sier at menn ofte har det verst når de blir forlatt. De har større sannsynlighet for å lide av psykiske problemer, og ifølge en rapport fra organisasjonen Suicide Zero utgjør menn 70 prosent av de som dør av selvmord i Sverige hvert år.",
+                    "type_hallusinasjon": "Utelatelse",
+                    "forklaring": "Den omskrevne setningen utelater at menn over 85 år er spesielt overrepresentert i selvmordsstatistikken, ifølge den opprinnelige artikkelen.",
+                    "modellens_sikkerhet_i_deteksjonen": 9
+                }
+            ]
+        }
+    },
+    {
+        "unique_id": "lwVz9L",
+        "title": "Drapet i Mjøndalen: Erkjenner å ha knivstukket kvinnen",
+        "hallucination_analysis": {
+            "hallusinasjoner": [
+                {
+                    "omskrevet_setning": "Selv om han har erkjent handlingene, er det foreløpig uklart om han erkjenner straffskyld.",
+                    "type_hallusinasjon": "Faktisk forvrengning",
+                    "forklaring": "Den opprinnelige artikkelen sier at politiet ikke er kjent med om han erkjenner straffeskyld, mens den omskrevne artikkelen sier at det er uklart om han erkjenner straffskyld. Dette er en subtil, men viktig forskjell i hvordan informasjonen presenteres.",
+                    "modellens_sikkerhet_i_deteksjonen": 8
+                }
+            ]
+        }
+    },
+    {
+        "unique_id": "nyW8Ga",
+        "title": "Hvorfor griper ingen inn for å stoppe borgerkrigen i Sudan?",
+        "hallucination_analysis": {
+            "hallusinasjoner": [
+                {
+                    "omskrevet_setning": "En liten jente ved navn Moshtaha mistet livet til sultens grusomheter, og hennes mor, Mariam Adam, kunne ikke gjøre annet enn å gi henne en tallerken grøt om dagen.",
+                    "type_hallusinasjon": "Utelatelse",
+                    "forklaring": "Den omskrevne setningen utelater viktige detaljer om Moshtahas død, inkludert at hun døde av diaré og oppkast, og at moren sjekket etter hjerteslag og fant stillhet. Disse detaljene gir en mer fullstendig forståelse av situasjonen.",
+                    "modellens_sikkerhet_i_deteksjonen": 9
+                },
+                {
+                    "omskrevet_setning": "Sudan står overfor en av de verste humanitære krisene noensinne.",
+                    "type_hallusinasjon": "Utelatelse",
+                    "forklaring": "Den opprinnelige artikkelen spesifiserer at Sudan står overfor en av verdens verste katastrofer noensinne, noe som gir en global kontekst til krisen. Den omskrevne setningen mangler denne globale sammenligningen.",
+                    "modellens_sikkerhet_i_deteksjonen": 8
+                },
+                {
+                    "omskrevet_setning": "Russland har også sikret seg en avtale om å bygge en marinebase ved Port Sudan, som kontrolleres av den sudanske hæren.",
+                    "type_hallusinasjon": "Faktisk forvrengning",
+                    "forklaring": "Den opprinnelige artikkelen sier at Russland og SAF nylig inngikk en avtale om å bygge en russisk marinebase nær Port Sudan. Den omskrevne setningen kan gi inntrykk av at avtalen allerede er sikret og at basen er ved Port Sudan, mens originalen sier 'nær' Port Sudan.",
+                    "modellens_sikkerhet_i_deteksjonen": 7
+                }
+            ]
+        }
+    }
+]
